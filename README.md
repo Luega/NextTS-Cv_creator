@@ -2,8 +2,6 @@
 
 CV Creator is a web application designed to assist users in creating, managing, and optimizing their CVs (curriculum vitae). It provides a seamless experience by integrating with Google and GitHub for authentication purposes. With CV Creator, users can access their personalized board where they can create, view, and modify their CVs. The application also allows users to save their CVs as PDF files and offers job search functionality, enabling users to save their favorite job listings on their board. Additionally, CV Helper incorporates ChatGPT, a language model, to provide assistance.
 
-[Take a look](https://next-ts-cv-creator.vercel.app/)
-
 ## Table of Contents
 
 - [Features](#Features)
